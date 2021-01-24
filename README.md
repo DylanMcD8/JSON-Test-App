@@ -1,2 +1,2 @@
-# JSON-Test-App
-JSON Test App, by Sun Apps
+# JSON Test App
+Sun Apps, LLC | © 2021 Dylan McDonald | [sunapps.org](https://sunapps.org)
